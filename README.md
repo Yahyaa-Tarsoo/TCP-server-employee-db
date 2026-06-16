@@ -29,5 +29,3 @@ Run client:
 ```
 
 Client commands: `add Name,Address,Hours` | `list` | `remove Name` | `quit`
-
-## Structure
